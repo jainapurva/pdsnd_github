@@ -17,4 +17,4 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-This project is made for the purpose of Udacity course Programming for Data Science.
+This project is made for the course project of Udacity course Programming for Data Science.
