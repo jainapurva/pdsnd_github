@@ -232,7 +232,7 @@ def raw_output_data(df):
         print('\nAccessing Raw Data...\n')
         start_time = time.time()
         count = 0   #row count
-        #loop through csv data
+        #loop through csv data 5 rows at a time
         while True:
             print(df.iloc[count:count + 5])
             count += 5
