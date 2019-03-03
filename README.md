@@ -2,7 +2,7 @@
 03 March 2019 
 
 ### Project Title
-Bikeshare
+Bikeshare Project
 
 ### Description
 This project is to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. It gives various statistics for the data, like mos popular start station, most popular trip, most popular hour of travel etc. 
