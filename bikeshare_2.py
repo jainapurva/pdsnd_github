@@ -224,6 +224,7 @@ def user_stats(df):
     print('-' * 40)
 
 def raw_output_data(df):
+    '''Displays raw data of users'''
     raw_output = str(input('\nWould you like to view individual trip data? '
     'Enter yes or no.\n')).strip().lower()
     count = 0
